@@ -12,7 +12,7 @@ I'm 22. International student living in a basement.
 
 Occasionally get sentimental. Quiet and harmless 99% of my whole life.
 
-I realized I was a loser last night at 2am. Got sick two days ago and had tried to sleep early as a gesture of self-care. This attempt failed miserably after an hour. Lying in the dark, I did the only thing anyone in this situation would do. Pondering about life. 
+I realized I was a loser last night at 2am. Got sick two days ago and had tried to sleep early as a gesture of self-care. This attempt failed miserably after an hour. Lying in the dark, I did the only thing anyone in this situation would do. Ponder about life. 
 
 That's when I had this desire to talk to someone. Some living creature, as long as they understand my language and can provide some sort of feedback. Take in my communication capability, I guess that criteria only apply to human beings. I reached for my phone and start going through my social media apps. After 15 minutes I gradually came to the realization that there's really no fit place for me to dump my shit to (and ngl my shit in mind was truly boring and meaningless it doesn't bring value to anyone).
 
