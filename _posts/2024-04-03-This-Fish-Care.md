@@ -6,7 +6,7 @@ end_note: I like fish and I still eat them, which is sad.
 TL;DR: I'm explaining why you shouldn't pick up dead fish in the ocean.
 
 
-## A Piece Of Textbook Article
+### A Piece Of Textbook Article
 Back in my elementary school, they taught kids Chinese using pieces of articles in text books. Since all the kids already spoke perfect Chinese out-of-the-box, the course "Chinese" was more like "literature", where kids were taught how to appreciate the beauty of human literature and mimic their style in writing. 
 
 The pre-class homework we were required to do include:
@@ -44,7 +44,7 @@ Young and naive as I was in my third grade, I already knew there's more to this 
 
 Maybe inspired by that instance, later in the same school year, I wrote a homework article titled "My trip to the beach" which depicted my family trip to a beach park during holidays.
 
-## "My Trip To The Beach"
+### "My Trip To The Beach"
 
 > The sun was shining in the sky and the air was hot. My parents took me to the beach.  
 > 
@@ -67,7 +67,7 @@ Later in class, the teacher specifically mentioned my work. She commented in fro
 That incident, the 4/10 one, marked the end of my meaningless, too-honest, truth-respecting writing style as early as my third grade. From then on each time I wrote, I made sure to think of some "meanings" first, then alter the storytelling to serve my purpose. Things with my Chinese teacher never went wrong again. But frankly, I don't like that at all. As I grew older I realize it's not wrong to write meaningless articles: it's just wrong for humble people to do that. If someone's influential, even a question mark they make will be documented and respected, because the meaning of that question mark comes from the fame of its author itself. But eventually, people want something out of your work. Without any meaningful stuff inside, they're nothing but dead fish in the ocean.
 
 
-## Dimension Deficiency
+### Dimension Deficiency
 I conceive this matter this way: people making meanings out of articles, graphs or whatever media is a process of trying to understand what's happening. They are mapping the original information from the author to their own brain dimensions. Usually during communication, some information is lost due to mismatched brain dimensions. That's why for maximal efficiency, the author tries to use common sense, like in the previous cases the elementary school principles, to mark up the message, as common sense is almost common to all brains.
 
 But human thoughts are far too complex to be expressed in language, let alone common sense expressions. That's too much information lost. In my teenage years, there were crushes whom I both liked and hated, and my feeling towards them were more nuanced than that, I couldn't put my finger on any existing words. 
